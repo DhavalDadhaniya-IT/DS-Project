@@ -2,3 +2,4 @@ We all face the problem of spams in our inboxes. Let’s build a spam classifier
 
 We are going to make use of NLTK for processing the messages, WordCloud and matplotlib for visualization and pandas for loading data, NumPy for generating random probabilities for train-test split.
 
+Here we have used the SMS Spam Collection Dataset from Kaggle.
